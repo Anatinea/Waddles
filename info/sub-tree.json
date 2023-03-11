@@ -1,0 +1,48 @@
+{
+  "sha": "c7f72bf9e7730c7ead3afe8dd5e0e3042d4a9a87",
+  "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/c7f72bf9e7730c7ead3afe8dd5e0e3042d4a9a87",
+  "tree": [
+    {
+      "path": "backend",
+      "type": "tree",
+      "sha": "571f9729d52dff5e74aea0f664ee612377c97700",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/571f9729d52dff5e74aea0f664ee612377c97700"
+    },
+    {
+      "path": "deployment",
+      "type": "tree",
+      "sha": "79d5695f79125e66795bf21b77bd0685ed2343bc",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/79d5695f79125e66795bf21b77bd0685ed2343bc"
+    },
+    {
+      "path": "devmetrics",
+      "type": "tree",
+      "sha": "26cecea59e38c1ba5c19f02e9610873eef9e9834",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/26cecea59e38c1ba5c19f02e9610873eef9e9834"
+    },
+    {
+      "path": "frontend",
+      "type": "tree",
+      "sha": "2f7ae95082fc0fd4e97a569d17077a524968a82e",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/2f7ae95082fc0fd4e97a569d17077a524968a82e"
+    },
+    {
+      "path": "maintenance-page",
+      "type": "tree",
+      "sha": "b3ec599b48df4d02f5d5e214a1fa77d037ea4207",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/b3ec599b48df4d02f5d5e214a1fa77d037ea4207"
+    },
+    {
+      "path": "shared",
+      "type": "tree",
+      "sha": "6b515bb826736b7d97bd5e14119e49cda66d7dfe",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/6b515bb826736b7d97bd5e14119e49cda66d7dfe"
+    },
+    {
+      "path": "utilities",
+      "type": "tree",
+      "sha": "b2687b5fd5e0f9b15e634a1d6b9c22d1fa9ede54",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/b2687b5fd5e0f9b15e634a1d6b9c22d1fa9ede54"
+    }
+  ]
+}

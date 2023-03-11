@@ -1,0 +1,126 @@
+{
+  "sha": "b2b8ff9961bc33c5a29362345bc3da65371692be",
+  "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/b2b8ff9961bc33c5a29362345bc3da65371692be",
+  "tree": [
+    {
+      "path": ".depcheckrc.yaml",
+      "type": "blob",
+      "sha": "ad37ad8a73e04c86645a1711114ade1de7d188ba",
+      "size": 275,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/ad37ad8a73e04c86645a1711114ade1de7d188ba"
+    },
+    {
+      "path": ".eslintrc",
+      "type": "blob",
+      "sha": "5815fb3f8ad96134bdc17a536c53675f4f6fe9fc",
+      "size": 9922,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/5815fb3f8ad96134bdc17a536c53675f4f6fe9fc"
+    },
+    {
+      "path": ".github",
+      "type": "tree",
+      "sha": "e6c687d0e46d2bde64462ac10c7601ed9ced8dfd",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/e6c687d0e46d2bde64462ac10c7601ed9ced8dfd"
+    },
+    {
+      "path": ".gitignore",
+      "type": "blob",
+      "sha": "cd67cf1269f19a02c84549edb917375e3b96a758",
+      "size": 547,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/cd67cf1269f19a02c84549edb917375e3b96a758"
+    },
+    {
+      "path": ".husky",
+      "type": "tree",
+      "sha": "9d938abeadaaf83ee0a3dbd8dbfe2d931820991f",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/9d938abeadaaf83ee0a3dbd8dbfe2d931820991f"
+    },
+    {
+      "path": ".prettierrc",
+      "type": "blob",
+      "sha": "dadafa61693480b7afc74a4381f0422345cf2126",
+      "size": 171,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/dadafa61693480b7afc74a4381f0422345cf2126"
+    },
+    {
+      "path": ".yarn",
+      "type": "tree",
+      "sha": "05ace4a53fe6aba10a6daa3d6b098fbb733dcf70",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/05ace4a53fe6aba10a6daa3d6b098fbb733dcf70"
+    },
+    {
+      "path": ".yarnrc.yml",
+      "type": "blob",
+      "sha": "73cee700e363131a9d707fc93dfe2d2c35823847",
+      "size": 184,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/73cee700e363131a9d707fc93dfe2d2c35823847"
+    },
+    {
+      "path": "README.md",
+      "type": "blob",
+      "sha": "9392f2803a1011280dd1bcbde1b0d79825bbdfc6",
+      "size": 8252,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/9392f2803a1011280dd1bcbde1b0d79825bbdfc6"
+    },
+    {
+      "path": "babel.config.js",
+      "type": "blob",
+      "sha": "aba24d4de7b87cdd34bde474f8b1f0061b52f68e",
+      "size": 655,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/aba24d4de7b87cdd34bde474f8b1f0061b52f68e"
+    },
+    {
+      "path": "devmetrics.eslintrc",
+      "type": "blob",
+      "sha": "b4596187e87ea4e1a8cccd92e6643fbb8db10b28",
+      "size": 812,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/b4596187e87ea4e1a8cccd92e6643fbb8db10b28"
+    },
+    {
+      "path": "docs",
+      "type": "tree",
+      "sha": "12cbdfcd2d3e1945aeb469c6137e3e7d0d6733ef",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/12cbdfcd2d3e1945aeb469c6137e3e7d0d6733ef"
+    },
+    {
+      "path": "eslint-rules",
+      "type": "tree",
+      "sha": "2585bfeb054237d50c72c269de3cf7929fe43c19",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/2585bfeb054237d50c72c269de3cf7929fe43c19"
+    },
+    {
+      "path": "fast.eslintrc",
+      "type": "blob",
+      "sha": "7704e816b0337d9af19526ee7d09c55ad8247e16",
+      "size": 1773,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/7704e816b0337d9af19526ee7d09c55ad8247e16"
+    },
+    {
+      "path": "package.json",
+      "type": "blob",
+      "sha": "fab8c9c7e038dbd005e9edcc3b6a8d349876b938",
+      "size": 4355,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/fab8c9c7e038dbd005e9edcc3b6a8d349876b938"
+    },
+    {
+      "path": "packages",
+      "type": "tree",
+      "sha": "c7f72bf9e7730c7ead3afe8dd5e0e3042d4a9a87",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/c7f72bf9e7730c7ead3afe8dd5e0e3042d4a9a87"
+    },
+    {
+      "path": "prquantifier.yaml",
+      "type": "blob",
+      "sha": "c625becb56f1e0eaf500e2afc812c6c6eedfc384",
+      "size": 107638,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/c625becb56f1e0eaf500e2afc812c6c6eedfc384"
+    },
+    {
+      "path": "yarn.lock",
+      "type": "blob",
+      "sha": "6fd7b780e8b0b883f6f86b56605e900951bc63b9",
+      "size": 824501,
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/blobs/6fd7b780e8b0b883f6f86b56605e900951bc63b9"
+    }
+  ]
+}
