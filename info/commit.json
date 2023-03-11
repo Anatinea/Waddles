@@ -1,0 +1,30 @@
+{
+  "sha": "168c741c78d63f2102f66dafe22b5204fefa23f3",
+  "node_id": "C_kwDOCeBBytoAKDE2OGM3NDFjNzhkNjNmMjEwMmY2NmRhZmUyMmI1MjA0ZmVmYTIzZjM",
+  "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/commits/168c741c78d63f2102f66dafe22b5204fefa23f3",
+  "author": {
+    "name": "Lance J",
+    "email": "lancear153@gmail.com",
+    "date": "2023-03-10T17:05:41Z"
+  },
+  "committer": {
+    "name": "GitHub",
+    "email": "noreply@github.com",
+    "date": "2023-03-10T17:05:41Z"
+  },
+  "tree": {
+    "sha": "b2b8ff9961bc33c5a29362345bc3da65371692be",
+    "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/trees/b2b8ff9961bc33c5a29362345bc3da65371692be"
+  },
+  "message": "Merge 8db6fec6a0d745a0157432df4d52bdeecc79fe45 into 2be96e33b57131f643293816c473119a79f5e842",
+  "parents": [
+    {
+      "sha": "2be96e33b57131f643293816c473119a79f5e842",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/commits/2be96e33b57131f643293816c473119a79f5e842"
+    },
+    {
+      "sha": "8db6fec6a0d745a0157432df4d52bdeecc79fe45",
+      "url": "https://api.github.com/repos/shopstory-ai/shopstory/git/commits/8db6fec6a0d745a0157432df4d52bdeecc79fe45"
+    }
+  ]
+}

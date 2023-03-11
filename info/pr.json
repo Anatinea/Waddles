@@ -1,0 +1,55 @@
+{
+  "url": "https://api.github.com/repos/shopstory-ai/shopstory/pulls/1245",
+  "id": 1271423638,
+  "node_id": "PR_kwDOCeBBys5LyGKW",
+  "number": 1245,
+  "state": "open",
+  "title": "TECH-175 Remove Won't Dos",
+  "user": {
+    "login": "Lancear",
+    "id": 52662014,
+    "node_id": "MDQ6VXNlcjUyNjYyMDE0",
+    "avatar_url": "https://avatars.githubusercontent.com/u/52662014?v=4",
+    "url": "https://api.github.com/users/Lancear",
+    "type": "User"
+  },
+  "body": "## 🚀 Changes & Notes\r\n\r\n- I have read to many won't do comments that never happened, I'm not gonna approve any new ones any more\r\n- Eslint config that marks them as an error, yes error\r\n- Turned existing comments into ticket if they had none and were potentially still relevant\r\n\r\n## 📜 PR Checklist\r\n\r\n**Developer:**\r\n\r\n- [x] 🚧 Manually test the changes yourself\r\n- [x] 🧐 Review the PR yourself\r\n~🧪 Add automated tests (**mandatory for Backend/Shared** code, otherwise optional)~\r\n~📸 **For Frontend Changes**: Add screenshots and recordings of the changed UI~\r\n~🗂 **For Database Changes**: Add DB indices if you introduced new MongoDB operations that are not yet covered~\r\n\r\n**Reviewer:**\r\n\r\n- [ ] 😈 Try to break it (manually test it)\r\n- [ ] 🔬 Try to find bugs & suggest ways to improve the code, add missing docs\r\n\r\n*Don't forget to assign yourself and celebrate the approval with a gif ;)*\r\n",
+  "created_at": "2023-03-10T16:43:05Z",
+  "updated_at": "2023-03-10T17:49:35Z",
+  "closed_at": null,
+  "merged_at": null,
+  "merge_commit_sha": "168c741c78d63f2102f66dafe22b5204fefa23f3",
+  "draft": false,
+  "head": {
+    "label": "shopstory-ai:feature/tech-175-remove-wontdos",
+    "ref": "feature/tech-175-remove-wontdos",
+    "sha": "8db6fec6a0d745a0157432df4d52bdeecc79fe45",
+    "user": {
+      "login": "shopstory-ai",
+      "id": 48314294,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4MzE0Mjk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48314294?v=4",
+      "url": "https://api.github.com/users/shopstory-ai",
+      "type": "Organization"
+    }
+  },
+  "base": {
+    "label": "shopstory-ai:main",
+    "ref": "main",
+    "sha": "2be96e33b57131f643293816c473119a79f5e842",
+    "user": {
+      "login": "shopstory-ai",
+      "id": 48314294,
+      "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4MzE0Mjk0",
+      "avatar_url": "https://avatars.githubusercontent.com/u/48314294?v=4",
+      "url": "https://api.github.com/users/shopstory-ai",
+      "type": "Organization"
+    }
+  },
+  "merged": false,
+  "merged_by": null,
+  "commits": 3,
+  "additions": 14,
+  "deletions": 78,
+  "changed_files": 26
+}
